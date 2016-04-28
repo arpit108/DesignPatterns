@@ -1,6 +1,6 @@
-package com.designpattern.creational;
+package com.dp.creational.factorymethod;
 
-public class TestClass {
+public class TestFactoryMethod {
 
 	public static void main(String[] args)
 	{
